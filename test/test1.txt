@@ -6,10 +6,13 @@ hello world5
 Java
 Python
 C++
+stash
 origin main 수정
+stash
 origin main 원격 수정
 origin 로컬 변경
 conflict local
+stash
 conflict remote
 hello world java
 hello world sss
