@@ -1,1 +1,2 @@
 member1 작업완료!
+member2 작업완료!
